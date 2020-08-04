@@ -1,0 +1,8 @@
+{
+    "name": "budget tracker",
+    "short_name": "budget",
+    "theme_color": "#fffffff",
+    "background_color": "#fffffff",
+    "start_url": "/",
+    "display": "standalone"
+}
